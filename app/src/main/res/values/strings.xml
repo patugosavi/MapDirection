@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapDirection</string>
+
+
+    <string name="google_maps_key">AIzaSyD0psyGHcBeT_woHKZgXn3TCrYjZ6H-OSg</string>
+</resources>
